@@ -84,6 +84,8 @@ This deep learning model is built using the **Functional API**:
 - Suitable for **classifying air quality from images**.
 
 ### **Sequential API with VGG16 (Transfer Learning)**
+![image](https://github.com/user-attachments/assets/e82d97e2-15ed-48d2-97b9-392dabcdc855)
+
 This model is built using the **Sequential API**:
 - Leverages the **pre-trained VGG16 architecture**.
 - **Fine-tuned for air quality classification** using transfer learning.
@@ -92,6 +94,8 @@ This model is built using the **Sequential API**:
 ---
 
 ## **Web Application**
+![image](https://github.com/user-attachments/assets/30a01d3e-542f-45c4-8812-b6a218133228)
+
 The project includes a **Flask-based web application** that enables users to upload images and classify air quality using the **VGG16 model**.
 - Provides a **user-friendly interface** for real-time air quality assessment.
 - Helps in **environmental monitoring** and awareness.
@@ -101,6 +105,8 @@ To run the web application, follow the steps in the [How to Use](#how-to-use) se
 ---
 
 ## **Results**
+![e97228d7-5b53-4926-94c8-8ef525f0a466](https://github.com/user-attachments/assets/d31952d8-bac9-4ba5-98b3-4f0a07051906)
+
 ### **Model Performance**
 - **Functional API with MobileNet and ANN**:
   - Achieved **20% accuracy** on the test dataset.
